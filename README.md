@@ -1,4 +1,5 @@
 #############################################
+
 Welcome to Chat Board | Shoaib malek 
 #############################################
 
@@ -28,5 +29,7 @@ Websockets based chat server that can be used for exchanging text messages as we
 - Server can sending messages upto 20 clients.
 
 - Server can respond to the client with ACK message after each successful operation.
+
+- Contact me: shoaibmalek21@gmail.com
 
 #############################################
