@@ -1,6 +1,6 @@
 #############################################
 
-Welcome to Chat Board | Shoaib malek 
+Welcome to Chat Board | Shoaib Malek 
 
 #############################################
 
