@@ -1,0 +1,13 @@
+Welcome to My Online Chat Board
+[Me - Client] 
+
+Server: On New connection
+>> Press Enter
+
+Me: I have certain problems in my project
+Server: Please tell me, I will try to solve
+Me: In my project, i want every clients can listed by their ID.
+Server: Okay, No problem.
+Me: Thank you, I'm glad on your service
+Server: Thanks for your cooperation too
+Me: exit
