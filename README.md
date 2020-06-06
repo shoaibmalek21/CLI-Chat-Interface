@@ -1,21 +1,15 @@
-##############################
-###############
-Welcome to My Online Chat Board
+#############################################
+Welcome to Chat Board | Shoaib malek 
+#############################################
 
-"Shoaibmalek21@gmail.com"
-##############################
-###############
-
-CLI Chat Interface
+Command Line Chat Interface
 
 Websockets based chat server that can be used for exchanging text messages as well as running system commands on the Linux.
 
 
 - This is Simple Chat room script in Python.
 
-- Unable to do RSA encryption and decryption 
-  in Python, so uses UTF-8 encryption for 
-  secured data transfer over public Network.
+- Uses UTF-8 encryption for secured data transfer over public Network.
 
 - The script consist on server & client. 
 
@@ -29,15 +23,10 @@ Websockets based chat server that can be used for exchanging text messages as we
 - You can connect multiple clients client.py
   to single server. 
 
-- Detailed logs for both the client and the
-  Server for each and every operation. 
+- Detailed logs for both the client and the Server for each and every operation. 
 
-- Server can sending messages upto
-  20 clients.
+- Server can sending messages upto 20 clients.
 
-- Server can respond to the client
-  with ACK message after each successful 
-  operation.
+- Server can respond to the client with ACK message after each successful operation.
 
-##############################
-###############
+#############################################
